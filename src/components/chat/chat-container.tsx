@@ -114,7 +114,7 @@ export function ChatContainer() {
     return (
         <div className="flex h-full w-full flex-col gap-4">
             <CoinEventBanner count={jackpot} increment={handleIncrementJackpot} />
-            <ScrollArea className="h-[65vh] px-4 py-2 border rounded-lg bg-background">
+            <ScrollArea className="h-[60vh] px-4 py-2 border rounded-lg bg-background">
                 <MessageList messages={messages} />
             </ScrollArea>
             <MessageInput onSend={handleSendMessage} />
