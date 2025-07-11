@@ -1,5 +1,7 @@
 # Chat Demo
 
+Check out the live demo at: [https://owenps.github.io/chatdemo/](https://owenps.github.io/chatdemo/)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
